@@ -1,15 +1,17 @@
 {
   "name": "vscode-csharp-snippets",
-  "displayName": "vscode-csharp-snippets",
-  "description": "",
-  "publisher": "Harikrushna Parmar",
-  "repository": "https://github.com/microsoft/vscode-extension-samples/helloworld-sample",
-  "version": "0.0.1",
+  "displayName": "C# File Generator - VS Code Extension",
+  "description": "A powerful Visual Studio Code extension that allows you to quickly generate C# files with predefined templates, ensuring consistent structure and reducing repetitive work.",
+  "publisher": "HarikrushnaParmar",
+  "repository": "https://github.com/harikrishna43/vscode-csharp-snippets",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
-    "Other"
+    "Programming Languages",
+    "Snippets",
+    "C#"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
